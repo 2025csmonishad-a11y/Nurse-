@@ -1,0 +1,28 @@
+h1{
+  color:red;
+  font-size:70px;
+}
+h2{
+  color:aqua;
+  font-size:50px;
+}
+h3{
+  color:burlywood;
+  font-size:50px;
+}
+h4{
+  color:pink;
+  font-size:50px;
+}
+body{
+  background-color:rgb(94, 65, 210);
+}
+form{
+  margin:auto;
+  border:3px solid blue;
+  text-align: center;
+  h1{
+    color:cadetblue;
+  }
+  background-color: aqua;
+}
